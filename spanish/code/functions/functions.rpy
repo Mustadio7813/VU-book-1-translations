@@ -20,7 +20,7 @@ translate spanish strings:
 
     # game/code/functions/functions.rpy:281
     old "You've unlocked a new CG Gallery"
-    new "Has desbloqueado una nueva Galería de CG"
+    new "Has desbloqueado una nueva Galería"
 
     # game/code/functions/functions.rpy:281
     old "You can watch the scene again in the Replay Room"
