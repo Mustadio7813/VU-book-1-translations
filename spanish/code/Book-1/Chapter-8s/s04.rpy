@@ -134,7 +134,7 @@ translate spanish b1c08ss04_cc08591d:
 translate spanish b1c08ss04_3856866a:
 
     # xv "Zem has agreed t—"
-    xv "Zem ha aceptado t—"
+    xv "Zem ha aceptado..."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:120
 translate spanish b1c08ss04_dbd4d92a:
@@ -416,7 +416,7 @@ translate spanish b1c08ss04_8812630d:
 translate spanish b1c08ss04_a89b6e37:
 
     # xv "We'll sneak in under the cover of dark. [mcname] will man the boat."
-    xv "Nos colaremos al amparo de la oscuridad. [mcname] tripulará el barco."
+    xv "Nos escabulliremos al amparo de la oscuridad. [mcname] será el encargado del barco."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:250
 translate spanish b1c08ss04_7aabf3e7:
@@ -488,7 +488,7 @@ translate spanish b1c08ss04_5625c1fd:
 translate spanish b1c08ss04_cbc34146:
 
     # xv "We'll head out just before dawn. Be prepared, collected, and guarded. Under the cover of night, we make our stand, and rescue Q and those girls."
-    xv "Saldremos poco antes del amanecer. Esté preparado, sereno y vigilado. Al amparo de la noche, nos enfrentamos y rescatamos a Q y a esas chicas."
+    xv "Saldremos poco antes del amanecer. Esté preparado, sereno y atento. Al amparo de la noche, nos enfrentamos y rescatamos a Q y a esas chicas."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:277
 translate spanish b1c08ss04_5b95e55d:
@@ -578,7 +578,7 @@ translate spanish b1c08ss04_zp_left_c235ceb6:
 translate spanish b1c08ss04_zp_left_3bd6e8c0:
 
     # ass "I assume you found them?"
-    ass "¿Supongo que los encontraste?"
+    ass "¿Supongo que los encontraron?"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:328
 translate spanish b1c08ss04_zp_left_605b7255:
@@ -776,7 +776,7 @@ translate spanish b1c08ss04_zp_left_9995437f:
 translate spanish b1c08ss04_zp_left_c6720da7:
 
     # fox "We're gonna rock their shit and get the cam workers back safely."
-    fox "Vamos a sacudir su mierda y traer de vuelta a salvo a los trabajadores de la cámara."
+    fox "Vamos a sacudir su mierda y traer de vuelta a salvo a los trabajadores de las cámaras."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:434
 translate spanish b1c08ss04_zp_left_b8e2a1a4:
@@ -800,7 +800,7 @@ translate spanish b1c08ss04_zp_left_dccaf697:
 translate spanish b1c08ss04_zp_left_c9c60c71:
 
     # ass "You go ahead. We're holed up in room 17. There's blankets and whatnot for you."
-    ass "Adelante. Estamos escondidos en la habitación 17. Hay mantas y otras cosas para ti."
+    ass "Adelante. Estamos en la habitación 17. Hay mantas y otras cosas para ti."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:452
 translate spanish b1c08ss04_zp_left_00136b6b:
@@ -866,7 +866,7 @@ translate spanish b1c08ss04_zp_left_b892590b:
 translate spanish b1c08ss04_zp_left_e4c05963:
 
     # ass "And that shot did fuck all. You wanna help me out?"
-    ass "Y ese disparo lo jodió todo. ¿Quieres ayudarme?"
+    ass "Y ese trago lo jodió todo. ¿Quieres ayudarme?"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:495
 translate spanish b1c08ss04_zp_left_6548b0d0:
@@ -878,7 +878,7 @@ translate spanish b1c08ss04_zp_left_6548b0d0:
 translate spanish b1c08ss04_zp_left_2309c8de:
 
     # "Her voice is laced with a mixture of vulnerability and resolve. She needs a comforting anchor in the middle of all this chaos."
-    "Su voz está mezclada con una mezcla de vulnerabilidad y resolución. Necesita un ancla reconfortante en medio de todo este caos."
+    "Su voz está impregnada de una mezcla de vulnerabilidad y determinación. Necesita un ancla reconfortante en medio de todo este caos."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:503
 translate spanish b1c08ss04_zp_left_15a69456:
@@ -1054,11 +1054,23 @@ translate spanish b1c08ss04_sex_fdff6211:
     # mc "What a good slut you are. Let me take care of you, Asami."
     mc "Que buena puta eres. Déjame cuidar de ti, Asami."
 
+# game/code/Book-1/Chapter-8s/s04.rpy:647
+translate spanish b1c08ss04_sex_6c53dcda:
+
+    # "She tastes so sweet. Her pussy twitches and greedily tries to pull your fingers farther inside."
+    "Ella tiene un sabor tan dulce. Su coño se retuerce y con avidez trata de empujar tus dedos más adentro."
+
 # game/code/Book-1/Chapter-8s/s04.rpy:650
 translate spanish b1c08ss04_sex_ff17caf7:
 
     # "You hit that sweet spot inside her, and her hips buck into your face."
     "Llegas a ese punto dulce dentro de ella y sus caderas chocan contra tu cara."
+
+# game/code/Book-1/Chapter-8s/s04.rpy:653
+translate spanish b1c08ss04_sex_66412271:
+
+    # "She grinds against your tongue and fingers, so desperate for more."
+    "Ella se frota contra tu lengua y tus dedos, tan desesperada por más."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:667
 translate spanish b1c08ss04_sex_89b61263:
@@ -1160,7 +1172,7 @@ translate spanish b1c08ss04_sex_fa25e5d9:
 translate spanish b1c08ss04_sex_6b27f870:
 
     # ass "You felt so good against me..."
-    ass "Te sentiste tan bien contra mí..."
+    ass "Te sentías tan bien pegado a mí..."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:734
 translate spanish b1c08ss04_sex_3b935508:
@@ -1184,7 +1196,7 @@ translate spanish b1c08ss04_sex_b9c0f8d2:
 translate spanish b1c08ss04_room_8f98acb8:
 
     # ass "*Whispers* Damn it, I asked them to move a makeshift mattress in here."
-    ass "*Susurros* Maldita sea, les pedí que trajeran un colchón improvisado aquí."
+    ass "*Susurros* Maldita sea, les pedí que trajeran una cama improvisada aquí."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:758
 translate spanish b1c08ss04_room_b3b2228d:
@@ -1262,7 +1274,7 @@ translate spanish b1c08ss04_room_582359ea:
 translate spanish b1c08ss04_room_c850ee65:
 
     # fox "What is it?"
-    fox "¿Qué es?"
+    fox "¿De qué se trata?"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:802
 translate spanish b1c08ss04_room_675bc551:
@@ -1286,7 +1298,7 @@ translate spanish b1c08ss04_room_5b7159dd:
 translate spanish b1c08ss04_room_db9978b8:
 
     # ass "It's moments like these that make me realize how important each one of us is to our makeshift family, y'know?"
-    ass "Son momentos como estos los que me hacen darme cuenta de lo importante que somos cada uno de nosotros para nuestra familia improvisada, ¿sabes?"
+    ass "Son momentos como estos los que me hacen darme cuenta de lo importante que somos cada uno de nosotros para nuestra improvisada familia, ¿entienden?"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:812
 translate spanish b1c08ss04_room_812ac105:
