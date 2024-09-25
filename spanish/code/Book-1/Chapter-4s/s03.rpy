@@ -224,7 +224,7 @@ translate spanish b1c04ss03_547b2a01:
 translate spanish b1c04ss03_975c190e:
 
     # mc "No, but I was a track star in highschool."
-    mc "No, pero yo era una estrella de atletismo en la escuela secundaria."
+    mc "No, pero yo era una estrella de atletismo en la universidad secundaria."
 
 # game/code/Book-1/Chapter-4s/s03.rpy:161
 translate spanish b1c04ss03_dea0f896:
